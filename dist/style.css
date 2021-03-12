@@ -1,0 +1,30 @@
+img {
+  width: 800px;
+}
+
+nav {
+  background-color: green;
+  display: inline-block;
+  width: 100%;
+}
+
+ul {
+  display: flex;
+  justify-content: center;
+  list-style-type: none;
+}
+
+li {
+  text-align: center;
+  float: right;
+  margin: 0 auto;
+}
+
+button {
+  background-color: green;
+  border-style: none;
+}
+
+button:hover {
+  background-color: blue;
+}
